@@ -1,0 +1,16 @@
+click:
+import click
+import sys
+
+@click.group():
+def checker():
+pass
+
+@checker.command(name=q):
+def quit():
+sys.exit()
+
+@checker.command(name=add):
+def add
+
+
