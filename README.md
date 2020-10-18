@@ -6,7 +6,7 @@ first of all, you need to have python3 on your path
 1. pull the repository to your computer
 2. open the command line
 3. navigate to the repo file
-4. write "python click_commands.py {command} {argument if needing to}
+4. write "python click_commands.py {command} {argument if needing to}"
 
 the command you can use:
 
