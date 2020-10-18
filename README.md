@@ -1,5 +1,5 @@
 # checker
-this program get a URL's and check for you if the sites are up or not, in loops (till you stop, or number times you decide)
+this program get a URL's and check for you if the sites are up or not, in loops (till you stop, or number times you decide from ahead)
 
 # how to use:
 first of all, you need to have python3 on your path
@@ -12,7 +12,7 @@ the command you can use:
 
 add - adding a URL to your checks list. arg needed - full URL that you want to check.
 
-dlt - delete a specific URL from your check list. arg needed - full URL that you want to check.
+dlt - delete a specific URL from your checklist. arg needed - full URL that you want to check.
 
 print - print all the URL's in your list.
 
