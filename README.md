@@ -16,7 +16,7 @@ dlt - delete a specific URL from your checklist. arg needed - full URL that you 
 
 print - print all the URL's in your list.
 
-q - quite the program.
+q - quit the program.
 
 run - start the checking progress. arg - optional - the number of times you want the process to go on. default - work till manually stop.
 
