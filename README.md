@@ -1,5 +1,7 @@
 # checker
-This program gets URL's and check for you if the sites are up or not, in loops (till you stop, or number times you decide ahead), through a bunch of simple cmd commands.
+This program runs URL checks in loops (for a number of times
+decided in advance or until stopped) d to determine if a site is up or
+not through a couple of simple cmd commands.
 
 # how to use:
 first of all, you need to have python3 on your path
